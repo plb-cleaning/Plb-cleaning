@@ -2,6 +2,7 @@
   "name": "PLB Cleaning",
   "short_name": "PLB Cleaning",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#35145c",
   "theme_color": "#35145c",
