@@ -1,0 +1,7 @@
+<svg 
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="90" fill="#35145c"/>
+<circle cx="256" cy="256" r="190" fill="none" stroke="#ffd66b" stroke-width="12"/>
+<text x="256" y="285" font-size="100" font-weight="bold" text-anchor="middle" fill="#ffd66b" font-family="Arial">PLB</text>
+<text x="256" y="335" font-size="30" text-anchor="middle" fill="#ffd66b" font-family="Arial">CLEANING</text>
+</svg>
